@@ -1,0 +1,26 @@
+/*home.html*/
+.homediv {
+  padding: 30px;
+}
+.cover {
+  padding: 0 20px;
+}
+/* main */
+html {
+  position: relative;
+  /*min-height: 100%;*/
+}
+body {
+  margin-bottom: 60px;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  background-color: #eee;
+}
+html,body {
+  height: 100%;
+  text-align: center;
+}
+
+.navbar-fixed-top {
+ border: 0;
+}
